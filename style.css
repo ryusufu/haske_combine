@@ -63,4 +63,12 @@ nav ul li a:last-child{
     margin-right: 0;
 }
 
+nav ul li a:hover {
+    color: crimson;
+}
+
+nav h1 a:hover {
+    text-decoration: underline;
+}
+
 
