@@ -104,7 +104,7 @@ img {
 .left h2 {
     padding-top: 10px;
     margin-bottom: 10px;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 100;
 
 }
@@ -112,7 +112,7 @@ img {
 .section-services {
     width: 100%;
     padding: 20px;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 400;
     text-align: center;
 }
@@ -132,6 +132,114 @@ img {
     cursor: pointer;
 }
 
+/* Footer*/
+
+footer {
+    height: 40vh;
+    width: 100%;
+    background: #dbe5ff;
+}
+
+.copyright {
+    background: #02142f;
+    height: 30px;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+h3 {
+    font-size: 16px;
+    padding-bottom: 5px;
+}
+
+
+.footer {
+    width: 90%;
+    margin: 0 auto;
+    padding: 15px 25px;
+    min-height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    min-width: 200px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.links a {
+    font-size: 14px;
+    line-height: 30px;
+}
+
+footer ul {
+    display: flex;
+    flex-direction: column;
+}
+footer ul li a {
+    color: black;
+
+}
+
+.social {
+    width: 20em;
+    
+}
+
+.social-links {
+    display: flex;
+    text-align: justify;
+    justify-content: space-around;
+
+}
+
+.contact {
+    text-align: right;
+}
+
+.contact h3 {
+    text-align: left;
+
+}
+
+#social-title {
+    padding-left: 10px;
+}
+
+address {
+    color: black;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.address a{
+    color: black;
+}
+
+.address  {
+    text-align: justify;
+    padding-left: 0;
+}
+
+.copyright {
+    background: #bacaf1;
+    padding: 20px;
+    height: 30px;
+    font-size: 1.2rem;
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 30px;
+}
 
 
 
