@@ -137,7 +137,7 @@ img {
 /* Footer*/
 
 footer {
-    height: 60vh;
+    height: 40vh;
     width: 100%;
     background: #dbe5ff;
 }
@@ -164,6 +164,7 @@ h3 {
     min-height: 200px;
     display: flex;
     justify-content: space-between;
+
 }
 
 .links {
